@@ -1,23 +1,7 @@
-<html><head>
-    <style>
-        .container {
-   text-align: center;
- }
 
-.container pre {
-  display: inline-block;
-  text-align: left;
- }
-    </style>
-    </head><body style="background-color: #1b1b1b;color: white;">
-        <center><img src="https://user-images.githubusercontent.com/86317606/123601793-efa75600-d7ac-11eb-8409-b448b5c03340.png" style="width:300px;height:300px;"></center>
-        <div class="container">
-            <pre>Hi this is <b><code style="color:red;">Jonathon</code> python programmer</b>. [0-0]
-I'm a lazy coder .[!_!]
-My favourite job is sleeping.[x_x]
-I love Si-Fi movie & Animation Cartoon.[b_d]
-I have one GF and that is my Predator laptop.[w_w]
-Ok this is enough clue for <code style="color:yellow;">FBI Dogs</code>.[o_*]
+<center><img src="https://user-images.githubusercontent.com/86317606/123601793-efa75600-d7ac-11eb-8409-b448b5c03340.png" style="width:300px;height:300px;"></center>
+<pre>Hi this is <b><code style="color:red;">Jonathon</code>. [0-0]
+This is Git-page respo
+Check this :<a href="https://xtheoneaboveall.github.io/" >https://xtheoneaboveall.github.io/</a>
 </pre>
-</div>
-</body></html>
+
